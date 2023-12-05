@@ -9,6 +9,22 @@
         "color": "red-500",
         "value": "5"
       }
+    },
+    {
+      "route": "trade",
+      "name": "trade",
+      "type": "sub",
+      "icon": "format_line_spacing",
+      "children": [
+        {
+          "route": "trade-banus",
+          "name": "trade-banus",
+          "type": "link"
+        }
+      ],
+      "permissions": {
+        "except": "GUEST"
+      }
     }
   ]
 }

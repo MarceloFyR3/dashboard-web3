@@ -57,6 +57,10 @@ const routes: Routes = [
         path: 'utilities',
         loadChildren: () => import('./utilities/utilities.module').then(m => m.UtilitiesModule),
       },
+      {
+        path: 'trade',
+        loadChildren: () => import('./trade/trade.module').then(m => m.TradeModule),
+      }
     ],
   },
   {
