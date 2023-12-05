@@ -1,14 +1,9 @@
 ## ✨ Features
 
-- Material Extensions
-- Schematics support
-- Modern design style
-- Multiple admin layout
-- Powerful color system
-- Rich CSS helpers
-- Dark mode support
+- Web 3
+- Trades
+- Swap
 - Authentication
-- HTTP interceptors
 
 ## 📦 Compatibility
 
